@@ -12,10 +12,10 @@ Solutions for various problems from LeetCode.
 
 | Problem ID | Name | Language | Difficulty |
 |--------------|------|----------|------------|
-| *(add later)* | *(add later)* | Python | Easy |
-| *(add later)* | *(add later)* | Python | Easy |
-| *(add later)* | *(add later)* | Python | Medium |
-| *(add later)* | *(add later)* | Python | Hard |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ---
 
