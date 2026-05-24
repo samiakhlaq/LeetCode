@@ -12,7 +12,7 @@ Solutions for various problems from LeetCode.
 
 | # | Name | Language | Difficulty |
 |--------------|------|----------|------------|
-|  |  |  |  |
+| 1 | Maximum Subarray | Python | Medium |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
