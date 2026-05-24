@@ -10,7 +10,7 @@ Solutions for various problems from LeetCode.
 
 ![LeetCode Problems](https://img.shields.io/badge/LeetCode-Problem_List-orange.svg?logo=leetcode&logoColor=white)
 
-| Problem ID | Name | Language | Difficulty |
+| # | Name | Language | Difficulty |
 |--------------|------|----------|------------|
 |  |  |  |  |
 |  |  |  |  |
