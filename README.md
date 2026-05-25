@@ -13,9 +13,7 @@ Solutions for various problems from LeetCode.
 | Problem | Language | Difficulty | Solution |
 |------------------------------------------|----------|------------|------------|
 | [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Python | Medium | https://github.com/samiakhlaq/LeetCode/blob/main/Maximum%20Subarray.py |
-|  |  |  |  |  
-|  |  |  |  |
-|  |  |  |  |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Majority%20Element.py |
 
 ---
 
