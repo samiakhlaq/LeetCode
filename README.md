@@ -10,10 +10,10 @@ Solutions for various problems from LeetCode.
 
 ![LeetCode Problems](https://img.shields.io/badge/LeetCode-Problem_List-orange.svg?logo=leetcode&logoColor=white)
 
-| # | Name | Language | Difficulty |
-|--------------|------|----------|------------|
-| 53 | Maximum Subarray | Python | Medium |
-|  |  |  |  |
+| Problem | Language | Difficulty | Solution |
+|------------------------------------------|----------|------------|------------|
+| [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Python | Medium | https://github.com/samiakhlaq/LeetCode/blob/main/Maximum%20Subarray.py |
+|  |  |  |  |  
 |  |  |  |  |
 |  |  |  |  |
 
