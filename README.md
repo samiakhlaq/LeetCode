@@ -15,6 +15,7 @@ Solutions for various problems from LeetCode.
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Python | Medium | https://github.com/samiakhlaq/LeetCode/blob/main/Maximum%20Subarray.py |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Majority%20Element.py |
 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Find%20Missing%20and%20Repeated%20Values.py |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Merge%20Sorted%20Array.py |
 
 
 ---
