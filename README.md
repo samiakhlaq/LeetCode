@@ -18,6 +18,7 @@ Solutions for various problems from LeetCode.
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Merge%20Sorted%20Array.py |
 | [136. Single Number](https://leetcode.com/problems/single-number/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Single%20Number.py |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Python | Easy | https://github.com/samiakhlaq/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Python | Medium | https://github.com/samiakhlaq/LeetCode/blob/main/Pow(x%2C%20n).py |
 
 ---
 
